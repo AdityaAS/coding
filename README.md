@@ -1,4 +1,6 @@
 # coding
+* Please list down important tutorial links / slides / other reading material along with [TOPIC] below in the resources section
+
 An attempt to revisit competitive / interview coding and become a coding ninja this time.
 Aiming to finish the questions in the following platforms:
 1. [Leetcode OJ](https://leetcode.com/)
