@@ -5,20 +5,20 @@
 * [Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence/) [Implementation](easy_3.cpp)
 * [Longest Repeated Subsequence](https://www.geeksforgeeks.org/longest-repeated-subsequence/) [Implementation](easy_4.cpp)
 * Largest Sum Contiguous Subarray
-* Ugly numbers
-* Maximum size square sub-matrix with all 1s
+* [AdityaAS] Ugly numbers
+* [AdityaAS] Maximum size square sub-matrix with all 1s
 * Longest Increasing Subsequence
 * Min Cost Path
 * Coin change problem
-* Minimum number of edits ( operations ) require to convert string 1 to string 2
-* Cutting a Rod
-* Subset Sum Problem
-* Minimum number of jumps to reach end
+* [AdityaAS] Minimum number of edits ( operations ) require to convert string 1 to string 2
+* [AdityaAS] Cutting a Rod
+* [AdityaAS] Subset Sum Problem
+* [AdityaAS] Minimum number of jumps to reach end
 * Assembly line scheduling
 * Maximum Sum Increasing Subsequence
 * Maximum Length Chain of Pairs
-* Longest Common Substring
-* Count all possible paths from top left to bottom right of a mXn matrix
+* [AdityaAS] Longest Common Substring
+* [AdityaAS] Count all possible paths from top left to bottom right of a mXn matrix
 * nth Catalan Number
 * Count number of ways to reach a given score in a game
 * Tiling Problem
@@ -28,13 +28,13 @@
 * Compute nCr % p
 * Permutation Coefficient
 * Count number of ways to fill a “n x 4” grid using “1 x 4” tiles
-* A Space Optimized Solution of LCS
+* [AdityaAS] A Space Optimized Solution of LCS
 * Find maximum length Snake sequence
-* Minimum cost to fill given weight in a bag
+* [AdityaAS] Minimum cost to fill given weight in a bag
 * Choice of area
 * Maximum weight path ending at any element of last row in a matrix
-* Recursively break a number in 3 parts to get maximum sum
-* Path with maximum average value
+* [AdityaAS] Recursively break a number in 3 parts to get maximum sum
+* [AdityaAS] Path with maximum average value
 * Maximum sum of pairs with specific difference
 * Maximum subsequence sum such that no three are consecutive
 * Longest subsequence such that difference between adjacents is one
@@ -42,7 +42,7 @@
 * Maximum sum Bi-tonic Sub-sequence
 * LCS (Longest Common Subsequence) of three strings
 * Maximum path sum in a triangle
-* Friends Pairing Problem
+* [AdityaAS] Friends Pairing Problem
 * Size of array after repeated deletion of LIS
 * Minimum steps to minimize n as per given condition
 * Maximum path sum that starting with any cell of 0-th row and ending with any cell of (N-1)-th row
