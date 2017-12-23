@@ -23,21 +23,24 @@ An attempt to revisit competitive / interview coding and become a coding ninja t
 
 ### Range Minimum Query:
 * [InProgress] Segment Tree (with and without Lazy Propogation) - AdityaAS
-* [InProgress] Fenwick Tree (with and without Lazy Propodation) - Shankar
+* [InProgress] Fenwick Tree [Concept](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+	* Without Lazy Propagation - [Implementation](Advanced_Data_Structures/BinaryIndexedTree/bit.cpp)
+	* With Lazy Propagation - 
 
 #### Problem Links:
 * Link 1
 
 ### Pattern Matching Algorithms:
 * Naive Pattern Maching
-* Knuth Morris Pratt (KMP) Algorithm -- [Implementation](Shankar_Personal/KMP.cpp)
-
-* Rabin-Karp (RKP) Algorithm
+* Knuth Morris Pratt (KMP) Algorithm -- [Implementation](Shankar_Personal/KMP.cpp) [Concept](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
+* Rabin-Karp (RKP) Algorithm [Concept](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)	
 * Naive Pattern Matching Improvised
 * Finite Automata
 * Efficient Construction of Finite Automata
 * Boyer Moore Algorithm
 * Suffix Tree Algorithm
+
+### Dynamic Programming Algorithms:
 
 #### Problem Links:
 * Link 1
