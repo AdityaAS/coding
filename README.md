@@ -17,14 +17,16 @@ An attempt to revisit competitive / interview coding and become a coding ninja t
 * Heap Sort / Heaps / Heapify / Priority Queue
 * Quick Sort / Various partitioning Schemes / Randomized Quick Sort
 * Counting Sort / Radix Sort / Bucket Sort
-### Problem Links:
-	* Bucketing stuff on Interview Bit - Arrays section
+
+#### Problem Links:
+* Bucketing stuff on Interview Bit - Arrays section
 
 ### Range Minimum Query:
 * [InProgress] Segment Tree (with and without Lazy Propogation) - AdityaAS
 * [InProgress] Fenwick Tree (with and without Lazy Propodation) - Shankar
-### Problem Links:
-	* Link 1
+
+#### Problem Links:
+* Link 1
 
 ### Pattern Matching Algorithms:
 * Naive Pattern Maching
@@ -35,6 +37,7 @@ An attempt to revisit competitive / interview coding and become a coding ninja t
 * Efficient Construction of Finite Automata
 * Boyer Moore Algorithm
 * Suffix Tree Algorithm
-### Problem Links:
-	* Link 1
+
+#### Problem Links:
+* Link 1
 
