@@ -28,7 +28,8 @@ An attempt to revisit competitive / interview coding and become a coding ninja t
 
 ### Pattern Matching Algorithms:
 * Naive Pattern Maching
-* Knuth Morris Pratt (KMP) Algorithm
+* Knuth Morris Pratt (KMP) Algorithm -- [Implementation](Shankar_Personal/KMP.cpp)
+
 * Rabin-Karp (RKP) Algorithm
 * Naive Pattern Matching Improvised
 * Finite Automata
