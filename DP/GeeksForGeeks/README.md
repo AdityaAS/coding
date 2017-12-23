@@ -1,9 +1,9 @@
 ## Basic Problems :
 
-* Fibonacci numbers
-* Binomial Coefficient
-* Longest Common Subsequence
-* Longest Repeated Subsequence
+* [Fibonacci numbers](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/) [Implementation](easy_1.cpp) 
+* [Binomial Coefficient](https://www.geeksforgeeks.org/dynamic-programming-set-9-binomial-coefficient/) [Implementation](easy_2.cpp)
+* [Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence/) [Implementation](easy_3.cpp)
+* [Longest Repeated Subsequence](https://www.geeksforgeeks.org/longest-repeated-subsequence/) [Implementation](easy_4.cpp)
 * Largest Sum Contiguous Subarray
 * Ugly numbers
 * Maximum size square sub-matrix with all 1s
