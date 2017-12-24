@@ -1,12 +1,12 @@
 ## Basic Problems :
 
-* [Fibonacci numbers](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/) [Implementation](easy_1.cpp) 
-* [Binomial Coefficient](https://www.geeksforgeeks.org/dynamic-programming-set-9-binomial-coefficient/) [Implementation](easy_2.cpp)
-* [Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence/) [Implementation](easy_3.cpp)
-* [Longest Repeated Subsequence](https://www.geeksforgeeks.org/longest-repeated-subsequence/) [Implementation](easy_4.cpp)
-* Largest Sum Contiguous Subarray
-* Ugly numbers
-* Maximum size square sub-matrix with all 1s
+* [Fibonacci numbers](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/) [Implementation](codes/easy_1.cpp) 
+* [Binomial Coefficient](https://www.geeksforgeeks.org/dynamic-programming-set-9-binomial-coefficient/) [Implementation](codes/easy_2.cpp)
+* [Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence/) [Implementation](codes/easy_3.cpp)
+* [Longest Repeated Subsequence](https://www.geeksforgeeks.org/longest-repeated-subsequence/) [Implementation](codes/easy_4.cpp)
+* [Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) [Implementation](codes/easy_5.cpp)
+* [Ugly numbers](https://www.geeksforgeeks.org/ugly-numbers/) [Implementation](codes/easy_6.cpp)
+* [Maximum size square sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/) [Implementation](codes/easy_7.cpp)
 * Longest Increasing Subsequence
 * Min Cost Path
 * Coin change problem
