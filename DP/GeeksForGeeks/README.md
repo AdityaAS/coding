@@ -7,50 +7,50 @@
 * [Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) [Implementation](codes/easy_5.cpp)
 * [Ugly numbers](https://www.geeksforgeeks.org/ugly-numbers/) [Implementation](codes/easy_6.cpp) [AdityaAS]
 * [Maximum size square sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/) [Implementation](codes/easy_7.cpp) [AdityaAS]
-* Longest Increasing Subsequence
-* Min Cost Path
-* Coin change problem
-* Minimum number of edits ( operations ) require to convert string 1 to string 2 [AdityaAS] 
-* Cutting a Rod [AdityaAS] 
-* Subset Sum Problem [AdityaAS] 
-* Minimum number of jumps to reach end [AdityaAS]
+* [Longest Increasing Subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence/) [Implementation](codes/easy_8.cpp)
+* [Min Cost Path](https://www.geeksforgeeks.org/dynamic-programming-set-6-min-cost-path/) [Implementation](codes/easy_9.cpp)
+* [Coin change problem](https://www.geeksforgeeks.org/dynamic-programming-set-7-coin-change/) [Implementation](codes/easy_10.cpp)
+* [Minimum number of edits ( operations ) require to convert string 1 to string 2](https://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/) [Implementation](codes/easy_11.cpp) [AdityaAS] 
+* [Cutting a Rod](https://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/) [Implementation](codes/easy_12.cpp) [AdityaAS]
+* [Subset Sum Problem](https://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/) [Implementation](codes/easy_13.cpp) [AdityaAS] 
+* [Minimum number of jumps to reach end](https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/) [Implementation](codes/easy_14.cpp)[AdityaAS]
 * Assembly line scheduling
-* Maximum Sum Increasing Subsequence
-* Maximum Length Chain of Pairs
-* Longest Common Substring [AdityaAS]
-* Count all possible paths from top left to bottom right of a mXn matrix [AdityaAS]
-* nth Catalan Number
-* Count number of ways to reach a given score in a game
-* Tiling Problem
-* Count even length binary sequences with same sum of first and second half bits
-* Find number of solutions of a linear equation of n variables
-* Bell Numbers (Number of ways to Partition a Set)
-* Compute nCr % p
-* Permutation Coefficient
-* Count number of ways to fill a “n x 4” grid using “1 x 4” tiles
-* [AdityaAS] A Space Optimized Solution of LCS
-* Find maximum length Snake sequence
-* [AdityaAS] Minimum cost to fill given weight in a bag
-* Choice of area
-* Maximum weight path ending at any element of last row in a matrix
-* [AdityaAS] Recursively break a number in 3 parts to get maximum sum
-* [AdityaAS] Path with maximum average value
-* Maximum sum of pairs with specific difference
-* Maximum subsequence sum such that no three are consecutive
-* Longest subsequence such that difference between adjacents is one
-* Maximum path sum for each position with jumps under divisibility condition
-* Maximum sum Bi-tonic Sub-sequence
-* LCS (Longest Common Subsequence) of three strings
-* Maximum path sum in a triangle
-* [AdityaAS] Friends Pairing Problem
-* Size of array after repeated deletion of LIS
-* Minimum steps to minimize n as per given condition
-* Maximum path sum that starting with any cell of 0-th row and ending with any cell of (N-1)-th row
-* Gold Mine Problem
-* Find number of endless points
-* Perfect Sum Problem (Print all subsets with given sum)
-* Maximum sum of a path in a Right Number Triangle
-* Subset with sum divisible by m
+* [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/dynamic-programming-set-14-maximum-sum-increasing-subsequence/) [Implementation](codes/easy_16.cpp)
+* [Maximum Length Chain of Pairs](https://www.geeksforgeeks.org/dynamic-programming-set-20-maximum-length-chain-of-pairs/)
+* [Longest Common Substring] [Implementation](codes/easy_18.cpp) [AdityaAS]
+* Count all possible paths from top left to bottom right of a mXn matrix [Implementation](codes/easy_19.cpp) [AdityaAS]
+* nth Catalan Number [Implementation](codes/easy_20.cpp)
+* Count number of ways to reach a given score in a game [Implementation](codes/easy_21.cpp)
+* Tiling Problem [Implementation](codes/easy_22.cpp)
+* Count even length binary sequences with same sum of first and second half bits [Implementation](codes/easy_23ß.cpp)
+* Find number of solutions of a linear equation of n variables [Implementation](codes/easy_24.cpp)
+* Bell Numbers (Number of ways to Partition a Set) [Implementation](codes/easy_25.cpp)
+* Compute nCr % p [Implementation](codes/easy_26.cpp)
+* Permutation Coefficient [Implementation](codes/easy_27.cpp)
+* Count number of ways to fill a “n x 4” grid using “1 x 4” tiles [Implementation](codes/easy_28.cpp)
+* [AdityaAS] A Space Optimized Solution of LCS [Implementation](codes/easy_29.cpp)
+* Find maximum length Snake sequence [Implementation](codes/easy_30.cpp)
+* [AdityaAS] Minimum cost to fill given weight in a bag [Implementation](codes/easy_31.cpp) 
+* Choice of area [Implementation](codes/easy_32.cpp)
+* Maximum weight path ending at any element of last row in a matrix [Implementation](codes/easy_33.cpp)
+* [AdityaAS] Recursively break a number in 3 parts to get maximum sum [Implementation](codes/easy_34.cpp)
+* [AdityaAS] Path with maximum average value [Implementation](codes/easy_35.cpp)
+* Maximum sum of pairs with specific difference [Implementation](codes/easy_36.cpp)
+* Maximum subsequence sum such that no three are consecutive [Implementation](codes/easy_37.cpp)
+* Longest subsequence such that difference between adjacents is one [Implementation](codes/easy_38.cpp)
+* Maximum path sum for each position with jumps under divisibility condition [Implementation](codes/easy_39.cpp)
+* Maximum sum Bi-tonic Sub-sequence [Implementation](codes/easy_40.cpp)
+* LCS (Longest Common Subsequence) of three strings [Implementation](codes/easy_41.cpp)
+* Maximum path sum in a triangle [Implementation](codes/easy_42.cpp)
+* [AdityaAS] Friends Pairing Problem [Implementation](codes/easy_43.cpp)
+* Size of array after repeated deletion of LIS [Implementation](codes/easy_44.cpp)
+* Minimum steps to minimize n as per given condition [Implementation](codes/easy_45.cpp)
+* Maximum path sum that starting with any cell of 0-th row and ending with any cell of (N-1)-th row [Implementation](codes/easy_46.cpp)
+* Gold Mine Problem [Implementation](codes/easy_47.cpp)
+* Find number of endless points [Implementation](codes/easy_48.cpp)
+* Perfect Sum Problem (Print all subsets with given sum) [Implementation](codes/easy_49.cpp)
+* Maximum sum of a path in a Right Number Triangle [Implementation](codes/easy_50.cpp)
+* Subset with sum divisible by m [Implementation](codes/easy_51.cpp)
 
 
 ## Intermediate Problems :
@@ -92,7 +92,7 @@
 * Count possible ways to construct buildings
 * Compute sum of digits in all numbers from 1 to n
 * Shortest Common Supersequence
-* Minimum number of coins that make a given value
+* Minimum number of prices  that make a given value
 * Minimum number of squares whose sum equals to given number n
 * length of the longest consecutive path from a given starting character
 * Total number of non-decreasing numbers with n digits
@@ -102,8 +102,8 @@
 * Count ways to assign unique cap to every person
 * Longest Repeating Subsequence
 * Find the longest path in a matrix with given constraints
-* Number of paths with exactly k coins
-* Collect maximum coins before hitting a dead end
+* Number of paths with exactly k prices 
+* Collect maximum prices  before hitting a dead end
 * Count number of paths with at-most k turns
 * Partition a set into two subsets such that the difference of subset sums is minimum
 * Longest Zig-Zag Subsequence
@@ -143,7 +143,7 @@
 * Minimum Sum Path In 3-D Array
 * Count binary strings with k times appearing adjacent two set bits
 * Highway Billboard Problem
-* Probability of getting at least K heads in N tosses of Coins
+* Probability of getting at least K heads in N tosses of prices 
 * Count of strings that can be formed using a, b and c under given constraints
 * Modify array to maximize sum of adjacent differences
 * Temple Offerings
