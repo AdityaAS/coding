@@ -55,11 +55,11 @@
 
 ## Intermediate Problems :
  
-* 0-1 Knapsack Problem
-* Length of the longest substring without repeating characters
-* Count number of ways to reach destination in a Maze
+* [0-1 Knapsack Problem](https://www.geeksforgeeks.org/knapsack-problem/) [Implementation](codes/int_1.cpp)
+* [Length of the longest substring without repeating characters](https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/) [Implementation](codes/int_2.cpp)
+* [Count number of ways to reach destination in a Maze](https://www.geeksforgeeks.org/count-number-ways-reach-destination-maze/) [Implementation](codes/int_3.cpp)
 * Super Ugly Number (Number whose prime factors are in given set)
-* Count number of ways to partition a set into k subsets
+* [Count number of ways to partition a set into k subsets]() [Implementation](codes/int_5.cpp)
 * Longest Palindromic Subsequence
 * Egg Dropping Puzzle
 * Weighted job scheduling
